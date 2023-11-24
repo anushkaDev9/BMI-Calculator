@@ -1,5 +1,5 @@
 # BMI-Calculator ⚖️
-Calculates the BMI For the given height and weight
+Responsive webiste to calculate the BMI for a given height and weight.
 # Languages used 
 + React JS
 # Set Up
